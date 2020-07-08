@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.grocery-bg {
+  background-color: #ececec;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.shopping-bag-bg {
+  background-color: #e4f1fe;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.stats-bg {
+  background-color: #f2f1ef;
+  margin-left: 10px;
+  margin-right: 10px;
+}
